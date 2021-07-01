@@ -11,3 +11,6 @@
 - `HEAD` : where you are currently are (the version of the file on your comp)
 - `git diff HEAD~<NUM> <FILE>` : compare current file to file <NUM> ago
 	- `git diff <HASH> <FILE>`: compares the current file to file on  <HASH>
+
+- Use `git status` to help you find the commands to unstage or restore file
+- `git checkout <HASH> <FILE>` : to undelete/restore a file from prev commit
