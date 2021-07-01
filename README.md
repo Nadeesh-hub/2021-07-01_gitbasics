@@ -14,3 +14,8 @@
 
 - Use `git status` to help you find the commands to unstage or restore file
 - `git checkout <HASH> <FILE>` : to undelete/restore a file from prev commit
+	- if you run git checkout main
+
+- git ignore empty folders
+- use `.gitkeep` to keep empty folders
+- use `.gitignore` to ignore files/patterns
