@@ -14,3 +14,9 @@
 
 - Use `git status` to help you find the commands to unstage or restore file
 - `git checkout <HASH> <FILE>` : to undelete/restore a file from prev commit
+	
+#remotes
+	
+	- `ssh-keygen` : to create ssh keys
+	- `git remote add <URL>` : adss the URL
+	- `git push origin main`: push to the main branch to the origin remote
